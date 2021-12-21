@@ -1,0 +1,23 @@
+           {
+    "prefix": "-", 
+    "token": "ODg4NzMyMzg2MDI2NzM3NzU2.YUW-iA.FkZ9GXDQkQv4LHSbVuaT4ygu-Uc",
+    "cooldown": "3",
+    "logChannel": "",
+    "Statut": "sa v3",
+    "Statuts": [
+        "Prefix : -",
+        "Changer le prefix : -setprefix",
+        "serveur support : https://discord.gg/a5ErbKe5W9",
+        ""
+    ],
+    "OwnerId": "",
+    "welcomeChannel": "",
+    "mongodbconnect": "mongodb+srv://air:airnox@aponox.aeuxp.mongodb.net/FRYZER?retryWrites=true&w=majority",
+    "auto_role" : "",
+    "gif_serveur": "",
+    "loggerChannelID": "",
+    "webhook": {
+       "id": "",
+       "token": ""
+    }
+}
